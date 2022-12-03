@@ -1,7 +1,4 @@
 # Proje Veri Tabanı Tablosu
-
-<b>Admin Tablosu</b>
-
 <table>
   <tr>
     <th>Ad</th>
